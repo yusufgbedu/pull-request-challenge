@@ -24,9 +24,9 @@ git config --global user.email your-email
 
 - Launch your command prompt or terminal
 - Type cd documents
-- Tpe `git clone ***url***` on command prompt or terminal.
+- Type `git clone ***url***` on command prompt or terminal.
 
-4. Navigate to the folder(documents) to Open contributors.md and add your name to the list.
+4. Navigate to the folder(documents) to Open contributors.md and add your name and whatsApp number to the list.
 
 5. Tpe `git add -A`.
 
